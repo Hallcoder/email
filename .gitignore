@@ -28,7 +28,7 @@ monitorme-fee8c-firebase-adminsdk-vr8fl-b14fb2fa18.json
 *.sublime-workspace
 
 # IDE - VSCode
+.gitignore
 branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
-.gitignore
